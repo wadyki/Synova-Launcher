@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "id": "release-1-0-0",
+      "title": "Вышел Synova Launcher 1.0.0",
+      "description": "Первый публичный релиз Synova Launcher.",
+      "titleEn": "Synova Launcher 1.0.0 is out",
+      "descriptionEn": "The first public release of Synova Launcher.",
+      "date": "2026-09-10",
+      "url": "https://github.com/wadyki/Synova-Launcher/releases/tag/v1.0.0"
+    }
+  ]
+}
