@@ -8,15 +8,6 @@
       "descriptionEn": "The first public release of Synova Launcher.",
       "date": "2026-09-10",
       "url": "https://github.com/wadyki/Synova-Launcher/releases/tag/v1.0.0"
-    },
-    {
-      "id": "tgk-owner",
-      "title": "У создателя есть тгк!",
-      "description": "Все новости о всех проектах создателя будут тут!",
-      "titleEn": "The creator has Telegram Channel!",
-      "descriptionEn": "All news about all the creator's projects will be here!",
-      "date": "2026-09-10",
-      "url": "https://t.me/wadykidev"
     }
   ]
 }
